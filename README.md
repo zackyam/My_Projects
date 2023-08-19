@@ -1,5 +1,5 @@
 # myprojects
-**Inside this repository are the projects I did in my university life:**
+**Inside this repository are the projects and papers that I did in my university life:**
 
 <pre>
 2021, Text data analysis on US voting result          Machine learning model of election result built with twitter data. 
